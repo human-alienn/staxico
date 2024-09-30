@@ -1,0 +1,9 @@
+.staxico_img1 {
+  margin-left: 30px !important;
+}
+
+@media (max-width: 600px) {
+  .staxico_img1 {
+    margin-left: 0px !important;
+  }
+}
